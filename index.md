@@ -14,7 +14,6 @@ All tracks will conclude together with ICAPS, in July 2027, in Columbia, SC, USA
 
 ## Classical Tracks
 Website: [https://ipc2027-classical.github.io](https://ipc2027-classical.github.io)
-Website: []()
 
 Organizers:
  - TBD
