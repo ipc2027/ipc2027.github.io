@@ -1,0 +1,10 @@
+title: International Planning Competition 2027
+description: IPC 2027
+color:
+  palette:
+    my_blue: "#0000FF"
+  background: my_blue
+theme: jekyll-theme-leap-day
+show_downloads: false
+github:
+  is_project_page: false
