@@ -47,8 +47,11 @@ Organizers:
  - TBD -->
 
 
-<!-- ## HTN Tracks
-Website: [https://ipc2027-htn.github.io](https://ipc2027-htn.github.io)
+## Hierarchical Task Network (HTN) Tracks
+Website: To be announced <!-- [https://ipc2027-htn.github.io](https://ipc2027-htn.github.io) -..
 
-Organizers
- - TBD -->
+Organizers:
+* [Pascal Bercher](https://comp.anu.edu.au/people/pascal-bercher/),
+* [Mohammad Yousefi](https://yousefi.ai/),
+* [Jakub Med](https://jakubmed.net/), and
+* [Roman Barták](https://ktiml.mff.cuni.cz/~bartak/)
