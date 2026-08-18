@@ -48,7 +48,8 @@ Organizers:
 
 
 ## Hierarchical Task Network (HTN) Tracks
-Website: To be announced <!-- [https://ipc2027-htn.github.io](https://ipc2027-htn.github.io) -..
+Website: To be announced 
+<!-- [https://ipc2027-htn.github.io](https://ipc2027-htn.github.io) -->
 
 Organizers:
 * [Pascal Bercher](https://comp.anu.edu.au/people/pascal-bercher/),
