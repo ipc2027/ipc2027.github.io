@@ -16,7 +16,10 @@ All tracks will conclude together with ICAPS, in July 2027, in Columbia, SC, USA
 Website: [https://ipc2027-classical.github.io](https://ipc2027-classical.github.io)
 
 Organizers:
- - TBD
+* [Clemens Büchner](http://ai.cs.unibas.ch/people/buechner/index.html) (University of Basel)
+* [Daniel Gnad](https://fip.ifi.uni-heidelberg.de) (Heidelberg University \& Linköping University)
+* [Arnaud Lequen](https://mrlab.ai/arnaud-lequen/) (Linköping University)
+* [David Speck](http://ai.cs.unibas.ch/people/speck/index.html) (University of Basel)
 
 
 <!-- ## Learning Tracks
